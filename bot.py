@@ -111,4 +111,4 @@ async def on_command_error(ctx, error: discord.errors):
         await ctx.send("That command doesn't exist!")
 
 
-client.run('Njc4MDc2MzIxMjc1OTY5NjEx.Xkhbdw.nDGYBvHX1H70mMY1bacuqueujFs')
+client.run('Left this part out on github.')
