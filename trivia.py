@@ -1,3 +1,12 @@
+"""
+The following code is for the trivia bot found on the JakeMac discord server.
+This is the code that handles all of the backend. Stores the questions, sends new questions into the server, etc.
+Pretty much the backend.
+
+Author: Kenny Blake
+2/15/18
+
+"""
 import random
 class Trivia:
     def __init__(self, questions):

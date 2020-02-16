@@ -1,3 +1,11 @@
+"""
+The following code is for the trivia bot found on the JakeMac discord server.
+This is the piece of code that interacts with the actual discord server. Pretty much the front end of it.
+
+Author: Kenny Blake
+2/14/18
+
+"""
 import discord
 from discord.ext import commands
 import trivia 
